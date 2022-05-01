@@ -8,5 +8,7 @@
 
 ![My Notes](https://github.com/Jaykef/iCourse/blob/main/ScreenShots/4.png)
 
+![Course Home Dark](https://github.com/Jaykef/iCourse/blob/main/ScreenShots/5.png)
+
 ![Course Home Dark](https://github.com/Jaykef/iCourse/blob/main/ScreenShots/6.png)
 
